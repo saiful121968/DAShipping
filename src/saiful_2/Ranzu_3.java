@@ -12,7 +12,7 @@ public class Ranzu_3 {
 		m1=10; n1=15;
 		System.out.println("n1>m1 is "+(n1>m1));
 		y1=m1<n1;
-		System.out.println("m1>n1 is " +y1);
+		System.out.println("m1<n1 is " +y1);
 		
 
 	}

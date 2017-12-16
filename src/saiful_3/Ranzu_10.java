@@ -6,13 +6,14 @@ public class Ranzu_10 {
 		// TODO Auto-generated method stub
 		int x=30, y=45;
 		
-		boolean z =true, false;
-		if (x>y);
+		boolean z ; 
+		z=y<x;
 		
-		System.out.println("x is greater than y =" +z);
+		System.out.println("x is greater than y=\t"+ z);
 		
-		if (y>x);
-		System.out.println("y is greater than x"+z);
+		
+	 z=y>x;
+		System.out.println("y is greater than x=\t"+ z);
 		}
 
 
