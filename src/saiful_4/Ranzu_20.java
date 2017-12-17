@@ -12,7 +12,7 @@ public class Ranzu_20 {
 		d=a+" "+b+" "+c+" "+("Ranzu");
 		
 		System.out.println(d);
-		e=a+" "+b+" "+c+" "+("Ranzu ")+" "+("Allamdulillah");
+		e=a+" "+b+" "+c+" "+("Ranzu ")+" "+("Alhamdulillah");
 		System.out.println(e);
 	}
 
